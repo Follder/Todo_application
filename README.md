@@ -2,7 +2,7 @@
 
 ## Demo
 
-For Demo this project you can use [DEMO LINK](https://follder.github.io/Todo_application//)
+For Demo this project you can use [DEMO LINK](https://follder.github.io/todo_application//)
 
 ## Project timeline
 
@@ -29,4 +29,4 @@ This educational project was created during the completion of a Frontend Develop
 
 Dmytro Koriahin - [@Dmytro Koriahin](https://github.com/Follder) - [dmytro.koriahin@gmail.com](mailto:dmytro.koriahin@gmail.com)
 
-Project Link: https://github.com/Follder/Todo_application
+Project Link: https://github.com/Follder/todo_application
